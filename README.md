@@ -2,7 +2,6 @@
 
 ###
 
----
 
 <h3 align="center" style="color: #333333; font-family: 'Arial', sans-serif;">📊 GitHub Stats & Insights</h3>
 <div align="center">
