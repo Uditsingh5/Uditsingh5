@@ -4,12 +4,8 @@
 
 <h3 align="center" style="color: #333333; font-family: 'Arial', sans-serif;">📊 GitHub Insights</h3>
 <div align="center">
-  <div style="pointer-events: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Uditsingh5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
-  </div>
-  <div style="pointer-events: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uditsingh5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Uditsingh5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="GitHub Stats" style="pointer-events: none;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uditsingh5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="160" alt="Languages" style="pointer-events: none;" />
 </div>
 
 ---
