@@ -1,11 +1,3 @@
-Perfect — that’s the right call. Trimming your stack to what you actually **use and master (or are learning)** gives credibility and sharpens your identity.
-Let’s rebuild your README around *that tech focus* — cleaner, expressive, visually strong, and recruiter-ready — without the bloated “I do everything” vibe.
-
-Below is your **optimized, expressive, and modernized version** — tight, bold, and impressive:
-
----
-
-````md
 <div align="center">
 
 ╔════════════════════════════════════════════════════════╗  
@@ -152,6 +144,6 @@ const udit = {
 ![Profile Views](https://komarev.com/ghpvc/?username=Uditsingh5\&color=blueviolet\&style=for-the-badge)
 
 </div>
-```
+
 
 ---
