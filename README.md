@@ -1,4 +1,5 @@
-# ⟬⟬ 𝗨𝗗𝗜𝗧 𝗦𝗜𝗡𝗚𝗛 ⟭⟭ ⊹ 𝓬𝓸𝓭𝓮 ⟡ 𝓬𝓻𝓮𝓪𝓽𝓮 ⟡ 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓮 ⊹
+# &nbsp; ⟬⟬ 𝗨𝗗𝗜𝗧 𝗦𝗜𝗡𝗚𝗛 ⟭⟭ 
+<h6>─── ⊹ 𝓬𝓸𝓭𝓮 ⟡ 𝓬𝓻𝓮𝓪𝓽𝓮 ⟡ 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓮 ⊹ ───</h6>
 <div>&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=Full+Stack+Developer;Crafting+Seamless+UX;Engineering+the+Future;React+Wizard;Code+Architect" alt="Typing SVG" align=""/>
 </div>
 
