@@ -94,8 +94,9 @@ Dive in—explore where **vision transforms into digital reality**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Uditsingh5&color=0A3945&style=for-the-badge)
 
-───────────── 𝓥𝓮𝓻𝓼𝓲𝓸𝓷 2.0 ─────────────
+────────── 𝓥𝓮𝓻𝓼𝓲𝓸𝓷 2.0 ──────────
 
-Last Updated: October 2025 | Curated by 𝓤𝓭𝓲𝓽 𝓢𝓲𝓷𝓰𝓱
+⚡ 𝓤𝓭𝓲𝓽 𝓢𝓲𝓷𝓰𝓱 ⚡ Last Update: Oct ‘25
+
 
 
