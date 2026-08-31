@@ -1,0 +1,16 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="110" fill="#0A0A0A"/>
+  <rect x="10" y="10" width="1180" height="90" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+  <g stroke="#CCFF00" stroke-width="2">
+    <path d="M10 26 L10 10 L26 10"/>
+    <path d="M1174 10 L1190 10 L1190 26"/>
+    <path d="M1190 84 L1190 100 L1174 100"/>
+    <path d="M26 100 L10 100 L10 84"/>
+  </g>
+  <text x="40" y="70" font-family="'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#2A2A2A">04</text>
+  <line x1="130" y1="30" x2="130" y2="80" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="158" y="58" font-family="'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="1" fill="#F5F5F0">CHANNEL</text>
+  <text x="158" y="80" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">OPEN A LINE</text>
+  <line x1="620" y1="55" x2="1160" y2="55" stroke="#2A2A2A" stroke-width="1"/>
+  <circle cx="1160" cy="55" r="4" fill="#CCFF00"/>
+</svg>

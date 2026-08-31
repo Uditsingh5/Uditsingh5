@@ -1,0 +1,79 @@
+<svg width="1200" height="480" viewBox="0 0 1200 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="480" fill="#0A0A0A"/>
+  
+  <rect x="20" y="20" width="1160" height="440" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+  <g stroke="#CCFF00" stroke-width="2">
+    <path d="M20 40 L20 20 L40 20"/>
+    <path d="M1160 20 L1180 20 L1180 40"/>
+    <path d="M1180 440 L1180 460 L1160 460"/>
+    <path d="M40 460 L20 460 L20 440"/>
+  </g>
+  <text x="44" y="58" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#8A8A8A">FIG.02 &#8212; ABOUT THE ENGINEER</text>
+  <text x="1156" y="58" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#8A8A8A">SECTION 00</text>
+  <line x1="44" y1="72" x2="1156" y2="72" stroke="#2A2A2A" stroke-width="1"/>
+
+  <line x1="720" y1="90" x2="720" y2="440" stroke="#2A2A2A" stroke-width="1"/>
+
+  <text x="60" y="130" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#CCFF00">NOTE.001 &#8212; MANIFESTO</text>
+<text x="60" y="176" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="500" fill="#F5F5F0">I engineer inevitabilities, not just products.</text>
+<text x="60" y="206" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="500" fill="#F5F5F0">Every interface gets stress-tested against one</text>
+<text x="60" y="236" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="500" fill="#F5F5F0">rule: if it isn't obvious in hindsight, it isn't</text>
+<text x="60" y="266" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="500" fill="#F5F5F0">finished &#8212; so it doesn't ship.</text>
+<text x="60" y="310" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="500" fill="#F5F5F0">React on the surface. Node underneath.</text>
+<text x="60" y="340" font-family="'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#CCFF00">Opinions all the way down.</text>
+    <rect x="60" y="380" width="61" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="74" cy="395" r="3" fill="#CCFF00"/>
+    <text x="86" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">TS/JS</text>
+    <rect x="133" y="380" width="70" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="147" cy="395" r="3" fill="#CCFF00"/>
+    <text x="159" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">PYTHON</text>
+    <rect x="215" y="380" width="61" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="229" cy="395" r="3" fill="#CCFF00"/>
+    <text x="241" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">REACT</text>
+    <rect x="288" y="380" width="52" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="302" cy="395" r="3" fill="#CCFF00"/>
+    <text x="314" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">NODE</text>
+    <rect x="352" y="380" width="61" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="366" cy="395" r="3" fill="#CCFF00"/>
+    <text x="378" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">MONGO</text>
+    <rect x="425" y="380" width="61" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <circle cx="439" cy="395" r="3" fill="#CCFF00"/>
+    <text x="451" y="400" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">MYSQL</text>
+  
+  <g id="cube">
+    <ellipse cx="955.0" cy="252.5" rx="80.8" ry="11.9" fill="#CCFF00" opacity="0.10">
+      <animate attributeName="opacity" values="0.06;0.16;0.06" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -10; 0 0; 0 6; 0 0" keyTimes="0;0.25;0.5;0.75;1"
+      dur="5s" repeatCount="indefinite" additive="sum"/>
+      <polygon points="955.0,40.0 1040.0,89.3 955.0,138.6 870.0,89.3" fill="#CCFF00"/>
+      <polygon points="870.0,89.3 955.0,138.6 955.0,235.5 870.0,186.2" fill="#5C6B00"/>
+      <polygon points="955.0,138.6 1040.0,89.3 1040.0,186.2 955.0,235.5" fill="#151515" stroke="#CCFF00" stroke-width="1.5"/>
+      <polygon points="955.0,40.0 1040.0,89.3 955.0,138.6 870.0,89.3" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+      <polygon points="870.0,89.3 955.0,138.6 955.0,235.5 870.0,186.2" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+      <text x="955.0" y="78.2" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11.0" font-weight="700" fill="#0A0A0A">UI</text>
+      <text x="905.7" y="140.3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11.0" font-weight="700" fill="#F5F5F0">API</text>
+      <text x="1004.3" y="140.3" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11.0" font-weight="700" fill="#CCFF00">DB</text>
+      <line x1="870.0" y1="89.3" x2="1040.0" y2="89.3" stroke="none"/>
+      <g stroke="#F5F5F0" stroke-width="1" opacity="0">
+        <animate attributeName="opacity" values="0;0;0.9;0" keyTimes="0;0.4;0.55;0.85" dur="5s" repeatCount="indefinite"/>
+        <line x1="866.6" y1="89.3" x2="1043.4" y2="89.3"/>
+      </g>
+    </g>
+  </g>
+  <rect x="760" y="300" width="396" height="136" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+<text x="778" y="322.0" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="1" fill="#8A8A8A">NAME</text>
+<text x="1138" y="322.0" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F5F5F0">Udit Singh</text>
+<line x1="760" y1="334" x2="1156" y2="334" stroke="#2A2A2A" stroke-width="1"/>
+<text x="778" y="356.0" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="1" fill="#8A8A8A">ROLE</text>
+<text x="1138" y="356.0" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F5F5F0">Full-Stack Developer</text>
+<line x1="760" y1="368" x2="1156" y2="368" stroke="#2A2A2A" stroke-width="1"/>
+<text x="778" y="390.0" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="1" fill="#8A8A8A">FOCUS</text>
+<text x="1138" y="390.0" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F5F5F0">React &#183; Node &#183; TS</text>
+<line x1="760" y1="402" x2="1156" y2="402" stroke="#2A2A2A" stroke-width="1"/>
+<text x="778" y="424.0" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="1" fill="#8A8A8A">STATUS</text>
+<circle cx="996" cy="420.0" r="4" fill="#CCFF00"/>
+<text x="1138" y="424.0" text-anchor="end" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#CCFF00">Open to work</text>
+</svg>

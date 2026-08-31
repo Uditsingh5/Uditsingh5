@@ -6,33 +6,7 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
-### `NOTE.001`
-
-I don't design products — I **engineer inevitabilities**. Every interface I ship is stress-tested against a simple rule: if it doesn't feel obvious in hindsight, it isn't finished. I live in the gap between "technically working" and "actually good" — and I refuse to ship the first one.
-
-React on the surface. Node underneath. Opinions all the way down.
-
-</td>
-<td width="38%" valign="top">
-
-```
-┌─ SPEC ──────────────────┐
-│ NAME     Udit Singh     │
-│ ROLE     Full-Stack Dev │
-│ FOCUS    React / Node   │
-│ LANG     TS · JS · PY   │
-│ DATA     Mongo · MySQL  │
-│ STATUS   Open ●         │
-└──────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+<img src="./assets/intro.svg" width="100%"/>
 
 <br/>
 
@@ -40,13 +14,13 @@ React on the surface. Node underneath. Opinions all the way down.
 
 <br/>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td width="33%" valign="top">
 
 **`A — INTERFACE`**
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="Frontend tools" width="100%"/></a>
 
 <sub>React · Next.js · TypeScript · JavaScript · Tailwind</sub>
 
@@ -55,7 +29,7 @@ React on the surface. Node underneath. Opinions all the way down.
 
 **`B — SYSTEM`**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql&theme=dark" alt="Backend tools" width="100%"/></a>
 
 <sub>Node.js · Express · Python · FastAPI · MongoDB · MySQL</sub>
 
@@ -64,7 +38,7 @@ React on the surface. Node underneath. Opinions all the way down.
 
 **`C — WORKFLOW`**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma&theme=dark" alt="Workflow tools" width="100%"/></a>
 
 <sub>Git · GitHub · Linux · Postman · VS Code · Figma</sub>
 
@@ -78,36 +52,9 @@ React on the surface. Node underneath. Opinions all the way down.
 
 <br/>
 
-<div align="center">
 <a href="https://github.com/Uditsingh5/Zentra">
-<img src="https://raw.githubusercontent.com/Uditsingh5/Zentra/main/zentra-banner.png" width="100%"/>
+<img src="./assets/project-zentra.svg" width="100%"/>
 </a>
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
-**ZENTRA** — a real-time collaboration engine built for teams that think faster than forms allow. Live document editing, presence, and sync that holds up under actual concurrent chaos — not just the demo.
-
-</td>
-<td width="30%" valign="top">
-
-```
-STACK
-├─ React
-├─ Node.js
-├─ MongoDB
-├─ Socket.io
-├─ TailwindCSS
-└─ Docker
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -117,18 +64,18 @@ STACK
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uditsingh5&theme=github_dark" height="150"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uditsingh5&theme=github_dark" height="150"/></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uditsingh5&theme=github_dark" alt="GitHub statistics" width="100%"/></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uditsingh5&theme=github_dark" alt="Repository languages" width="100%"/></td>
 </tr>
 </table>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=Uditsingh5&hide_border=true&background=0A0A0A&stroke=2A2A2A&ring=CCFF00&fire=CCFF00&currStreakNum=F5F5F0&sideNums=F5F5F0&currStreakLabel=CCFF00&sideLabels=8A8A8A&dates=8A8A8A"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Uditsingh5&hide_border=true&background=0A0A0A&stroke=2A2A2A&ring=CCFF00&fire=CCFF00&currStreakNum=F5F5F0&sideNums=F5F5F0&currStreakLabel=CCFF00&sideLabels=8A8A8A&dates=8A8A8A" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-![Snake](https://raw.githubusercontent.com/Uditsingh5/Uditsingh5/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Uditsingh5/Uditsingh5/output/snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 

@@ -1,0 +1,85 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="460" fill="#0A0A0A"/>
+  
+  <rect x="20" y="20" width="1160" height="420" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+  <g stroke="#CCFF00" stroke-width="2">
+    <path d="M20 40 L20 20 L40 20"/>
+    <path d="M1160 20 L1180 20 L1180 40"/>
+    <path d="M1180 420 L1180 440 L1160 440"/>
+    <path d="M40 440 L20 440 L20 420"/>
+  </g>
+  <text x="60" y="58" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#8A8A8A">FIG.03 &#8212; FEATURED BUILD</text><text x="1156" y="58" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#8A8A8A">PROJECT 01</text><line x1="44" y1="72" x2="1156" y2="72" stroke="#2A2A2A" stroke-width="1"/><line x1="700" y1="90" x2="700" y2="420" stroke="#2A2A2A" stroke-width="1"/><text x="60" y="150" font-family="'Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="#F5F5F0">ZENTRA</text><g>
+  <circle cx="64" cy="172" r="4" fill="#CCFF00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="80" y="177" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="2" fill="#CCFF00">CAMPUS SOCIAL NETWORK</text>
+</g><text x="60" y="218" font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#8A8A8A">A social platform for students to connect, share</text><text x="60" y="246" font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#8A8A8A">updates, and collaborate in real time &#8212; built on</text><text x="60" y="274" font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#8A8A8A">a secure, JWT-authenticated backbone with live</text><text x="60" y="302" font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#8A8A8A">sockets powering feeds, chat, and communities.</text>
+    <rect x="60" y="352" width="92" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="72" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">REACT 19</text>
+    <rect x="162" y="352" width="56" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="174" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">VITE</text>
+    <rect x="228" y="352" width="92" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="240" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">REDUX TK</text>
+    <rect x="330" y="352" width="101" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="342" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">SOCKET.IO</text>
+    <rect x="441" y="352" width="101" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="453" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">EXPRESS 5</text>
+    <rect x="552" y="352" width="83" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="564" y="372" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">MONGODB</text>
+    <rect x="60" y="394" width="47" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="72" y="414" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">JWT</text>
+    <rect x="117" y="394" width="110" height="30" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="129" y="414" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#F5F5F0">CLOUDINARY</text>
+  <line x1="960" y1="230" x2="860" y2="155" stroke="#2A2A2A" stroke-width="1.5"/>
+<line x1="960" y1="230" x2="1070" y2="150" stroke="#2A2A2A" stroke-width="1.5"/>
+<line x1="960" y1="230" x2="1085" y2="300" stroke="#2A2A2A" stroke-width="1.5"/>
+<line x1="960" y1="230" x2="855" y2="305" stroke="#2A2A2A" stroke-width="1.5"/>
+<path id="spoke_0" d="M960 230 L860 155" fill="none" stroke="none"/>
+
+    <circle r="3.5" fill="#CCFF00">
+      <animateMotion dur="2.0s" repeatCount="indefinite" begin="0.0s">
+        <mpath href="#spoke_0"/>
+      </animateMotion>
+    </circle>
+<path id="spoke_1" d="M960 230 L1070 150" fill="none" stroke="none"/>
+
+    <circle r="3.5" fill="#CCFF00">
+      <animateMotion dur="2.35s" repeatCount="indefinite" begin="0.3s">
+        <mpath href="#spoke_1"/>
+      </animateMotion>
+    </circle>
+<path id="spoke_2" d="M960 230 L1085 300" fill="none" stroke="none"/>
+
+    <circle r="3.5" fill="#CCFF00">
+      <animateMotion dur="2.7s" repeatCount="indefinite" begin="0.6s">
+        <mpath href="#spoke_2"/>
+      </animateMotion>
+    </circle>
+<path id="spoke_3" d="M960 230 L855 305" fill="none" stroke="none"/>
+
+    <circle r="3.5" fill="#CCFF00">
+      <animateMotion dur="3.05s" repeatCount="indefinite" begin="0.8999999999999999s">
+        <mpath href="#spoke_3"/>
+      </animateMotion>
+    </circle>
+
+    <circle cx="860" cy="155" r="24" fill="#0A0A0A" stroke="#5C6B00" stroke-width="2"/>
+    <text x="860" y="159" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" font-weight="700" fill="#F5F5F0">FEED</text>
+
+    <circle cx="1070" cy="150" r="24" fill="#0A0A0A" stroke="#5C6B00" stroke-width="2"/>
+    <text x="1070" y="154" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" font-weight="700" fill="#F5F5F0">CHAT</text>
+
+    <circle cx="1085" cy="300" r="24" fill="#0A0A0A" stroke="#5C6B00" stroke-width="2"/>
+    <text x="1085" y="304" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" font-weight="700" fill="#F5F5F0">CAMPUS</text>
+
+    <circle cx="855" cy="305" r="24" fill="#0A0A0A" stroke="#5C6B00" stroke-width="2"/>
+    <text x="855" y="309" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" font-weight="700" fill="#F5F5F0">FRIENDS</text>
+
+    <circle cx="960" cy="230" r="30" fill="#CCFF00" opacity="0.10">
+      <animate attributeName="r" values="30;40;30" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.12;0;0.12" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="960" cy="230" r="30" fill="#0A0A0A" stroke="#CCFF00" stroke-width="2.5"/>
+    <text x="960" y="234" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="800" fill="#CCFF00">YOU</text>
+  <text x="960" y="420" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="1" fill="#8A8A8A">LIVE FEEDS &#183; REAL-TIME CHAT &#183; CAMPUS COMMUNITIES</text>
+</svg>

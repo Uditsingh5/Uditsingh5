@@ -1,0 +1,27 @@
+<svg width="260" height="290" viewBox="0 0 260 290" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="290" fill="#0A0A0A"/>
+  
+  <g id="cube">
+    <ellipse cx="130.0" cy="270.0" rx="95.0" ry="14.0" fill="#CCFF00" opacity="0.10">
+      <animate attributeName="opacity" values="0.06;0.16;0.06" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -10; 0 0; 0 6; 0 0" keyTimes="0;0.25;0.5;0.75;1"
+      dur="5s" repeatCount="indefinite" additive="sum"/>
+      <polygon points="130.0,20.0 230.0,78.0 130.0,136.0 30.0,78.0" fill="#CCFF00"/>
+      <polygon points="30.0,78.0 130.0,136.0 130.0,250.0 30.0,192.0" fill="#5C6B00"/>
+      <polygon points="130.0,136.0 230.0,78.0 230.0,192.0 130.0,250.0" fill="#151515" stroke="#CCFF00" stroke-width="1.5"/>
+      <polygon points="130.0,20.0 230.0,78.0 130.0,136.0 30.0,78.0" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+      <polygon points="30.0,78.0 130.0,136.0 130.0,250.0 30.0,192.0" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+      <text x="130.0" y="65.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.0" font-weight="700" fill="#0A0A0A">UI</text>
+      <text x="72.0" y="138.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.0" font-weight="700" fill="#F5F5F0">API</text>
+      <text x="188.0" y="138.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.0" font-weight="700" fill="#CCFF00">DB</text>
+      <line x1="30.0" y1="78.0" x2="230.0" y2="78.0" stroke="none"/>
+      <g stroke="#F5F5F0" stroke-width="1" opacity="0">
+        <animate attributeName="opacity" values="0;0;0.9;0" keyTimes="0;0.4;0.55;0.85" dur="5s" repeatCount="indefinite"/>
+        <line x1="26.0" y1="78.0" x2="234.0" y2="78.0"/>
+      </g>
+    </g>
+  </g>
+</svg>
