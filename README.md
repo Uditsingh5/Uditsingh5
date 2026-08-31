@@ -78,7 +78,6 @@
 <img src="https://raw.githubusercontent.com/Uditsingh5/Uditsingh5/output/snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
-
 <br/>
 
 <img src="./assets/divider-channel.svg" width="100%"/>
