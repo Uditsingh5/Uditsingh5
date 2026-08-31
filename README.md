@@ -72,6 +72,7 @@
 </table>
 
 <img width="86%" src="https://streak-stats.demolab.com?user=Uditsingh5&hide_border=true&background=0A0A0A&stroke=2A2A2A&ring=CCFF00&fire=CCFF00&currStreakNum=F5F5F0&sideNums=F5F5F0&currStreakLabel=CCFF00&sideLabels=8A8A8A&dates=8A8A8A" alt="GitHub contribution streak"/>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/Uditsingh5/Uditsingh5/output/snake.svg" alt="Contribution snake" width="100%"/>
@@ -91,10 +92,10 @@
 <a href="mailto:uditsingh52963@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=CCFF00"/></a>&nbsp;
 <a href="https://instagram.com/uditsingh005"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=CCFF00"/></a>
 <br/>
+
 ![Views](https://komarev.com/ghpvc/?username=Uditsingh5&color=0A0A0A&style=for-the-badge&label=VISITORS)
 
 </div>
-
 <br/>
 
 <img src="./assets/footer.svg" width="100%"/>
